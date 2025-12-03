@@ -8,8 +8,8 @@ like last year, not much to say. read the files. I might write funny comments.
 | Day | Part 1 | Part 2 |
 |----:|:------:|:------:|
 | 1  |    ✅    |   ✅    |
-| 2  |        |        |
-| 3  |        |        |
+| 2  |    ✅    |   ✅    |
+| 3  |    ✅    |   ✅    |
 | 4  |        |        |
 | 5  |        |        |
 | 6  |        |        |

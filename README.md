@@ -12,7 +12,7 @@ like last year, not much to say. read the files. I might write funny comments.
 | 3  |    ✅    |   ✅    |
 | 4  |    ✅    |   ✅    |
 | 5  |    ✅    |   ✅    |
-| 6  |        |        |
+| 6  |    ✅    |   ✅    |
 | 7  |        |        |
 | 8  |        |        |
 | 9  |        |        |

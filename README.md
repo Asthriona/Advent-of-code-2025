@@ -13,7 +13,7 @@ like last year, not much to say. read the files. I might write funny comments.
 | 4  |    ✅    |   ✅    |
 | 5  |    ✅    |   ✅    |
 | 6  |    ✅    |   ✅    |
-| 7  |        |        |
+| 7  |    ✅    |   ✅    |
 | 8  |        |        |
 | 9  |        |        |
 | 10 |        |        |

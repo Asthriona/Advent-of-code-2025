@@ -7,7 +7,7 @@ const start = Date.now();
 // Thanks @Heazher for that one. would not have thought of setting as a "let" and then mutate the shit.
 input = input.map((line) => line.split(""));
 
-let liftable = 0;
+// let liftable = 0; // eslint is unhappy if this stays...
 // More maps! Just like last year :D
 const dir = [
   [-1, -1],
